@@ -1,0 +1,2 @@
+# GitInitTest
+for study
